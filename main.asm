@@ -1,0 +1,5 @@
+[org 0x7c00]
+
+mov ax, 0x0013
+int 0x10
+
